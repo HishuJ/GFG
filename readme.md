@@ -7,5 +7,6 @@
 `git checkout` . - to return the changes in current directory to  last stage or commit
 `git clone <url>`- clone a repo
 `git pull`- fetching the latest changes
-
-
+`git remote add origin https://github.com/nikhilsharma2407/batch-37.git ` connect top a repo
+`git checkout -b<branch- name>`- create a new branch from current branch
+`git merge <branch-name>`to merge changes to merge changes
